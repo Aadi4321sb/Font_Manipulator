@@ -1,0 +1,39 @@
+.heading {
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px navy;
+    font-family: 'Chango', cursive;
+    letter-spacing: 3px;
+    color: blue;
+    
+}
+.note{
+   
+    color: turquoise;
+    font-family: 'Gemunu Libre', sans-serif;
+    font-weight: bolder;
+    
+}
+.copy_right_footer{
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: turquoise;
+    line-height: 3;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 20px;
+    font-family: 'Montserrat Alternates', sans-serif;
+    letter-spacing: 3px;
+}
+canvas{
+    border: 5px solid black;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px orangered;
+
+}
+#body1{
+    background-image: linear-gradient(to top, #9890e3 0%, #b1f4cf 100%);
+}
